@@ -41,8 +41,8 @@ if matches[1] == 'help' and is_owner(msg) then
 /mute vid ⇰ ⇰ لقفل الفيديو
 /unmute vid ⇰ ⇰ لفتح الفيديو
 ➖➖➖➖➖➖➖➖➖➖➖➖
-DEV           ⇰ ⇰ @deve_poent
-CHBOT     ⇰ ⇰ @DEV_s_o
+DEV           ⇰ ⇰ @ll_B5
+CHBOT     ⇰ ⇰ @DEV2PRO
 VR=V2
 ]]
 
